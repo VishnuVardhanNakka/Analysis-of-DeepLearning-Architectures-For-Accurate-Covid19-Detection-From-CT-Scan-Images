@@ -1,1 +1,8 @@
 # Analysis-of-DeepLearning-Architectures-For-Accurate-Covid19-Detection-From-CT-Scan-Images
+This project aims to analyze and develop deep learning architectures for accurate COVID-19 detection from CT scan images. The primary objectives are to explore and optimize Convolutional Neural Network (CNN) architectures tailored for COVID-19 classification from CT scans, implement state-of-the-art deep learning techniques to enhance accuracy and efficiency, evaluate and compare different CNN architectures to determine the most effective model, and contribute to the research community by documenting findings and best practices.
+
+The methodology involves preprocessing the SARS-CoV-2 CT Scan Dataset from Kaggle, containing 2,482 CT scan images (1,252 COVID-19 and 1,230 non-COVID-19). It explores CNN architectures like AlexNet, VGG, and U-Net for COVID-19 detection, employs transfer learning strategies with pre-trained models on large-scale image datasets, and implements data augmentation techniques to enhance model robustness and mitigate overfitting. Model performance is evaluated using metrics like accuracy, precision, and recall.
+
+Future work includes expanding the dataset with more diverse CT scans, exploring multimodal approaches by integrating CT scans with clinical data, implementing federated learning and privacy-preserving techniques, deploying and validating models in real-world clinical settings, continuous model refinement and updates for evolving disease characteristics, enhancing interpretability and explainable AI for clinical decision support, and addressing ethical and regulatory considerations for responsible AI integration.
+
+You can avail the dataset here : [Dataset](https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset)
